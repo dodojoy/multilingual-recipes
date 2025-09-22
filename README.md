@@ -37,7 +37,7 @@ Este projeto integra a API TheMealDB com a API do Gemini para fornecer receitas 
 
 ## Configuração do Banco de Dados
 
-1. Configure as variáveis de ambiente:
+1. Configure as variáveis de ambiente no arquivo `.env`:
 
 ```bash
 DB_USER=seu_usuario
@@ -114,3 +114,4 @@ Recipe
 - `pg`: Conexão PostgreSQL
 - `dotenv`: Gerenciamento de variáveis de ambiente
 - `json`: Manipulação de JSON
+
